@@ -8,4 +8,4 @@ You can find out more about **Nomo ID** at the [GitHub repository](https://githu
 
 ## Contributing
 
-We welcome contributions to the Nomo ID System Protocol. Feel free to open an issue or submit a pull request.
+We welcome contributions to the Nomo ID Protocol. Feel free to open an issue or submit a pull request.
