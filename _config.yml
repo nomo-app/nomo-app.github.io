@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Nomo App Developer Hub
-
+logourl: /assets/favicon.ico
+brand_color: "#ae9151"
