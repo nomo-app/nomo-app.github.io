@@ -15,11 +15,10 @@ A plugin is a web application that runs within the Nomo App.
 Plugins are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
 
 - Crypto wallet functionality.
-- Messaging via zeniq.chat service.
-- Taking pictures / uploading documents.
-- AI-powered features like speech-to-text offline.
-- Authentication with NOMO-Auth.
-- Authentication with NOMO-ID.
+- Decentralized messaging.
+- Optional: Verification that users are real via a KYC mechanism.
+- AI-powered features.
+- Authentication with Nomo-ID or Nomo-Auth.
 - And much more to come...
 
 ### Find out more about Nomo Plugins
