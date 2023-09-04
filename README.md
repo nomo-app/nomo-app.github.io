@@ -1,6 +1,3 @@
----
-layout: layout
----
 # Nomo App Developer Hub
 
 In the beginning, the [Nomo App](https://nomo.app) was only a crypto wallet, but now the Nomo App has evolved into a "super app".
