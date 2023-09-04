@@ -1,30 +1,43 @@
-# Nomo App Documentation
+# Nomo App Developer Hub
+
+In the beginning, the [Nomo App](https://nomo.app) was only a crypto wallet, but now the Nomo App has evolved into a "super app".
+Thereby, the Nomo App provides a whole new platform for third-party developers to build new use cases on top of the Nomo App.
+This site provides an overview for developers who want to build within the Nomo platform.
+
+The Nomo App provides the following products for third-party developers:
+
+- Nomo Plugins: Run anything you like within the Nomo App, including decentralized Apps ("_DApps_").
+- Nomo-ID: A protocol for authenticating via the Nomo App.
+
+## Nomo Plugins
+
+A plugin is a web application that runs within the Nomo App.
+Plugins are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
+
+- Crypto wallet functionality.
+- Messaging via zeniq.chat service.
+- Taking pictures / uploading documents.
+- AI-powered features like speech-to-text offline.
+- Authentication with NOMO-Auth.
+- Authentication with NOMO-ID.
+- And much more to come...
+
+### Find out more about Nomo Plugins
+
+Visit the **Nomo Plugin Kit** at the [GitHub repository](https://github.com/nomo-app/nomo-plugin-kit) to see what plugins can do.
+The repository contains a demo plugin where you can see how to create a plugin for the Nomo app.
 
 ## Nomo-ID
 
-Nomo ID is designed for developers to integrate the [Nomo app](https://nomo.app) into their applications. The mobile app uses the Nomo ID System Protocol. This protocol specifies how developers can interact with the mobile app.
+Nomo-ID is a flexible protocol for web3-based authentication, without any passwords.
+There exist multiple websites that allow login via Nomo-ID, but Nomo-ID can do much more than logins.
 
-### Find out more about Nomo ID
+You can find out more about Nomo-ID at the [GitHub repository](https://github.com/nomo-app/nomo-id).
 
-You can find out more about **Nomo ID** at the [GitHub repository](https://github.com/nomo-app/nomo-id). The repository contains a detailed specification of the protocol and a reference implementation for a Backend API in Node.js as well as a reference implementation for a Frontend in Next.js.
+### Nomo-ID Sample Application
 
-### Contributing
+The repository contains a specification of the protocol as well as a sample application.
+The backend of the sample application is written in Node.js/Express, and the frontend is written in React/Next.js.
 
-We welcome contributions to the Nomo ID Protocol. Feel free to open an issue or submit a pull request.
-
-## Nomo Plugin Kit
-
-The Nomo Plugin Kit is designed for developers to develop _plugins_ for the [NOMO app](https://nomo.app).
-A plugin is a web-application that runs within the NOMO-app.
-Plugins are a powerful capability of the NOMO-app that unlock the following features in an easy-to-use way:
-
-- Crypto wallet functionality
-- Messaging via zeniq.chat service
-- Taking pictures / uploading documents
-- AI-powered features like speech-to-text offline
-- Authentication with NOMO-Auth
-- Authentication with NOMO-ID
-
-### Find out more about the Nomo Plugin Kit
-
-You can find out more about the **Nomo Plugin Kit** at the [GitHub repository](https://github.com/nomo-app/nomo-plugin-kit). The repository contains a demo plugin where you can see how to create a plugin for the Nomo app.
+Although the sample application contains a frontend, the Nomo-ID protocol could be used even without any frontend.
+In a minimal use case, Nomo-ID could be used just by printing a QR code on a piece of paper.
