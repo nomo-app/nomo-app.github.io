@@ -15,7 +15,7 @@ The Nomo App provides the following products for third-party developers:
 
 ## Nomo Plugins
 
-A plugin is a web application that runs within the Nomo App.
+A plugin is a **web application** that works within the Nomo App.
 Plugins are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
 
 - Crypto wallet functionality.
