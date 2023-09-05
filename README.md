@@ -1,5 +1,7 @@
 <link rel="icon" href="favicon.ico" type="favicon.ico">
 
+<img src="nomo-logo-square.jpg" width="400" height="90">
+
 # Nomo App Developer Hub
 
 In the beginning, the [Nomo App](https://nomo.app) was only a crypto wallet, but now the Nomo App has evolved into a "super app".
@@ -42,5 +44,3 @@ The backend of the sample application is written in Node.js/Express, and the fro
 
 Although the sample application contains a frontend, the Nomo-ID protocol could be used even without any frontend.
 In a minimal use case, Nomo-ID could be used just by printing a QR code on a piece of paper.
-
-<img src="favicon.ico" alt="nomo_logo" width="150" height="150">
