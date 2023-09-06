@@ -30,6 +30,11 @@ Plugins are a powerful capability of the Nomo App that unlock the following feat
 Visit the **Nomo Plugin Kit** at the [GitHub repository](https://github.com/nomo-app/nomo-plugin-kit) to see what plugins can do.
 The repository contains a demo plugin where you can see how to create a plugin for the Nomo app.
 
+Moreover, the following npm packages are provided for plugin developers:
+
+- https://www.npmjs.com/package/nomo-plugin-kit
+- https://www.npmjs.com/package/ethersjs-nomo-plugins
+
 ## Nomo-ID
 
 Nomo-ID is a flexible protocol for web3-based authentication, without any passwords.
