@@ -32,8 +32,8 @@ The repository contains a demo plugin where you can see how to create a plugin f
 
 Moreover, the following npm packages are provided for plugin developers:
 
-- https://www.npmjs.com/package/nomo-plugin-kit
-- https://www.npmjs.com/package/ethersjs-nomo-plugins
+- <https://www.npmjs.com/package/nomo-plugin-kit>
+- <https://www.npmjs.com/package/ethersjs-nomo-plugins>
 
 ## Nomo-ID
 
