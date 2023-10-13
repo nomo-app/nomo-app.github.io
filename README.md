@@ -34,6 +34,7 @@ Moreover, the following npm packages are provided for plugin developers:
 
 - <https://www.npmjs.com/package/nomo-plugin-kit>
 - <https://www.npmjs.com/package/ethersjs-nomo-plugins>
+- <https://www.npmjs.com/package/web3js-nomo-plugins>
 
 ## Nomo-ID
 
