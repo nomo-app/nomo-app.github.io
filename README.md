@@ -5,18 +5,18 @@
 # Nomo App Developer Hub
 
 In the beginning, the [Nomo App](https://nomo.app) was only a crypto wallet, but now the Nomo App has evolved into a "super app".
-Thereby, the Nomo App provides a whole new platform for third-party developers to build new use cases on top of the Nomo App.
+Thereby, the Nomo App provides a whole new platform for developers.
 This site provides an overview for developers who want to build within the Nomo platform.
 
 The Nomo App provides the following products for third-party developers:
 
-- Nomo Plugins: Run anything you like within the Nomo App, including decentralized Apps ("_DApps_").
+- Web-Plugins: Run web-plugins within the Nomo App, including decentralized Apps ("_DApps_").
 - Nomo-ID: A protocol for authenticating via the Nomo App.
 
 ## Nomo Plugins
 
-A plugin is a **web application** that works within the Nomo App.
-Plugins are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
+A web-plugin is a **web application** that works within the Nomo App.
+Web-plugins are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
 
 - Crypto wallet functionality.
 - Decentralized messaging.
@@ -25,9 +25,9 @@ Plugins are a powerful capability of the Nomo App that unlock the following feat
 - Authentication with Nomo-ID or Nomo-Auth.
 - And much more to come...
 
-### Find out more about Nomo Plugins
+### Find out more about Web-Plugins
 
-Visit the **Nomo Plugin Kit** at the [GitHub repository](https://github.com/nomo-app/nomo-plugin-kit) to see what plugins can do.
+Visit the **Nomo Plugin Kit** at the [GitHub repository](https://github.com/nomo-app/nomo-plugin-kit) to see what web-plugins can do.
 The repository contains a demo plugin where you can see how to create a plugin for the Nomo app.
 
 Moreover, the following npm packages are provided for plugin developers:
