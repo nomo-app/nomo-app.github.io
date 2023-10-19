@@ -13,7 +13,7 @@ The Nomo App provides the following products for third-party developers:
 - Web-Plugins: Run web-plugins within the Nomo App, including decentralized Apps ("_DApps_").
 - Nomo-ID: A protocol for authenticating via the Nomo App.
 
-## Nomo Plugins
+## Web Plugins
 
 A web-plugin is a **web application** that works within the Nomo App.
 Web-plugins are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
