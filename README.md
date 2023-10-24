@@ -10,13 +10,13 @@ This site provides an overview for developers who want to build within the Nomo 
 
 The Nomo App provides the following products for third-party developers:
 
-- Web-Plugins: Run web-plugins within the Nomo App, including decentralized Apps ("_DApps_").
+- WebOns: Run WebOns within the Nomo App, including decentralized Apps ("_DApps_").
 - Nomo-ID: A protocol for authenticating via the Nomo App.
 
-## Web Plugins
+## WebOns
 
-A web-plugin is a **web application** that works within the Nomo App.
-Web-plugins are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
+A WebOn is a **web application** that works within the Nomo App.
+WebOns are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
 
 - Crypto wallet functionality.
 - Decentralized messaging.
@@ -25,12 +25,12 @@ Web-plugins are a powerful capability of the Nomo App that unlock the following 
 - Authentication with Nomo-ID or Nomo-Auth.
 - And much more to come...
 
-### Find out more about Web-Plugins
+### Find out more about WebOns
 
-Visit the **Nomo Plugin Kit** at the [GitHub repository](https://github.com/nomo-app/nomo-plugin-kit) to see what web-plugins can do.
-The repository contains a demo plugin where you can see how to create a plugin for the Nomo app.
+Visit the **Nomo WebOn Kit** at the [GitHub repository](https://github.com/nomo-app/nomo-webon-kit) to see what WebOns can do.
+The repository contains a demo WebOn where you can see how to create a WebOn for the Nomo app.
 
-Moreover, the following npm packages are provided for plugin developers:
+Moreover, the following npm packages are provided for WebOn developers:
 
 - <https://www.npmjs.com/package/nomo-plugin-kit>
 - <https://www.npmjs.com/package/ethersjs-nomo-plugins>
