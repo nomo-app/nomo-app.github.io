@@ -5,10 +5,9 @@
 # Nomo App Developer Hub
 
 In the beginning, the [Nomo App](https://nomo.app) was only a crypto wallet, but now the Nomo App has evolved into a "super app".
-Thereby, the Nomo App provides a whole new platform for developers.
-This site provides an overview for developers who want to build within the Nomo platform.
+Therefore, this site provides an overview for Nomo developers.
 
-The Nomo App provides the following products for third-party developers:
+The Nomo App includes the following frameworks for developers:
 
 - WebOns: Run WebOns within the Nomo App, including decentralized Apps ("_DApps_").
 - Nomo-ID: A protocol for authenticating via the Nomo App.
