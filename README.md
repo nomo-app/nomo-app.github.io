@@ -9,7 +9,7 @@ Therefore, this site provides an overview for Nomo developers.
 
 The Nomo App includes the following frameworks for developers:
 
-- WebOns: Run WebOns within the Nomo App, including decentralized Apps ("_DApps_").
+- WebOns: Run WebOns within the Nomo App, including Decentralized Apps ("_DApps_").
 - Nomo-ID: A protocol for authenticating via the Nomo App.
 
 ## WebOns
