@@ -17,7 +17,7 @@ The teams behind Nomo provide the following packages for developers:
 
 ## WebOns
 
-See on GitHub: https://github.com/nomo-app/nomo-webon-kit
+See on GitHub: <https://github.com/nomo-app/nomo-webon-kit>
 
 A WebOn is a **web application** that works within the Nomo App.
 WebOns are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
@@ -39,27 +39,27 @@ Moreover, Nomo provides the following npm packages for WebOn developers:
 
 ## WalletKit-Dart
 
-See on GitHub: https://github.com/nomo-app/walletkit-dart
+See on GitHub: <https://github.com/nomo-app/walletkit-dart>
 
 The WalletKit-Dart is an advanced library that provides wallet functionality for multiple chains.
 The WalletKit-Dart supports both UTXO-chains and EVM-chains, including features like xPub/zPub/P2SH/SegWit.
 
 ## Nomo-UI-Kit
 
-See on GitHub: https://github.com/nomo-app/nomo-ui-kit
+See on GitHub: <https://github.com/nomo-app/nomo-ui-kit>
 
 Nomo-UI-Kit offers a collection of reusable widgets, such as buttons and cards.
 Nomo-UI-Kit is designed for both the Nomo App itself as well as WebOns that are built with Flutter-Web.
 
 ## Nomo-WebView
 
-See on GitHub: https://github.com/nomo-app/nomo-webview
+See on GitHub: <https://github.com/nomo-app/nomo-webview>
 
 Nomo-WebView allows to convert between JavaScript-Promises and Dart-Futures, such that async/await works seamless across language boundaries.
 
 ## Nomo-ID
 
-See on GitHub: https://github.com/nomo-app/nomo-id
+See on GitHub: <https://github.com/nomo-app/nomo-id>
 
 Nomo-ID is a flexible protocol for web3-based authentication, without any passwords.
 There exist multiple websites that allow login via Nomo-ID, but Nomo-ID can do much more than logins.
