@@ -34,7 +34,8 @@ Moreover, Nomo provides the following npm packages for WebOn developers:
 
 - <https://www.npmjs.com/package/nomo-webon-kit>
 - <https://www.npmjs.com/package/ethersjs-nomo-webons>
-- <https://www.npmjs.com/package/web3js-nomo-webons>
+- <https://www.npmjs.com/package/nomo-webon-cli>
+- <https://www.npmjs.com/package/nomo-messenger-kit>
 - <https://www.npmjs.com/package/nomo-auth>
 
 ## WalletKit-Dart
@@ -43,6 +44,13 @@ See on GitHub: <https://github.com/nomo-app/walletkit-dart>
 
 The WalletKit-Dart is an advanced library that provides wallet functionality for multiple chains.
 The WalletKit-Dart supports both UTXO-chains and EVM-chains, including features like xPub/zPub/P2SH/SegWit.
+
+### Nomo BIP39
+
+See on GitHub: <https://github.com/nomo-app/bip39>
+
+To protect Nomo users, the Nomo team maintains their own fork of BIP39 with additional security hardenings.
+The WalletKit-Dart depends on Nomo BIP39.
 
 ## Nomo-UI-Kit
 
