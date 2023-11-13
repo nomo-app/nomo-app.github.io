@@ -49,7 +49,7 @@ The WalletKit-Dart supports both UTXO-chains and EVM-chains, including features 
 
 See on GitHub: <https://github.com/nomo-app/bip39>
 
-To protect Nomo users, the Nomo team maintains their own fork of BIP39 with additional security hardenings.
+To protect Nomo users, the Nomo team maintains its own fork of BIP39 with additional security hardenings.
 The WalletKit-Dart depends on Nomo BIP39.
 
 ## Nomo-UI-Kit
