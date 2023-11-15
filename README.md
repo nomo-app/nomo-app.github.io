@@ -22,10 +22,9 @@ See on GitHub: <https://github.com/nomo-app/nomo-webon-kit>
 A WebOn is a **web application** that works within the Nomo App.
 WebOns are a powerful capability of the Nomo App that unlock the following features in an easy-to-use way:
 
-- Crypto wallet functionality.
+- Excellent user experience for web3: No more "Connect wallet" buttons; no more middlemans between web application and wallet.
 - Decentralized messaging.
 - Optional: Verification that users are real via a KYC mechanism.
-- AI-powered features.
 - Authentication with Nomo-ID or Nomo-Auth.
 - And much more to come...
 
