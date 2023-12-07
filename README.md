@@ -2,12 +2,10 @@
 
 <img src="nomo-logo-square.jpg" width="400" height="90">
 
-# Nomo App Developer Hub
+# Nomo App Developer Docs
 
-In the beginning, the [Nomo App](https://nomo.app) was only a crypto wallet, but now the Nomo App has evolved into a "super app".
-Therefore, this site provides an overview for Nomo developers.
-
-The teams behind Nomo provide the following packages for developers:
+In the beginning, the [Nomo App](https://nomo.app) was only a crypto wallet, but now the Nomo App offers a huge range of web3-features.
+To enable those web3-features, the Nomo App uses the following open-source packages:
 
 - WebOns: Run WebOns within the Nomo App, including Decentralized Apps ("_DApps_").
 - WalletKit-Dart: A library for interacting with multiple chains.
