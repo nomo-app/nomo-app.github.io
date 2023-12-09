@@ -7,10 +7,9 @@
 In the beginning, the [Nomo App](https://nomo.app) was only a crypto wallet, but now the Nomo App offers a huge range of web3-features.
 To enable those web3-features, the Nomo App uses the following open-source packages:
 
-- WebOns: Run WebOns within the Nomo App, including Decentralized Apps ("_DApps_").
+- WebOns: Decentralized Apps ("_dApps_") are running within the Nomo-WebView.
 - WalletKit-Dart: A library for interacting with multiple chains.
 - Nomo-UI-Kit: A collection of Flutter-widgets with Nomo design.
-- Nomo-WebView: A WebView made for running WebOns.
 - Nomo-ID: A protocol for authenticating via the Nomo App.
 
 ## WebOns
