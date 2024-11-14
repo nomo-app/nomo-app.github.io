@@ -12,8 +12,6 @@ To enable those web3-features, the Nomo App uses the following open-source packa
 - Nomo-UI-Kit: A collection of Flutter-widgets with Nomo design.
 - Nomo-ID: A protocol for authenticating via the Nomo App.
 
-Nomo Dev YouTube Channel: <https://www.youtube.com/channel/UCsBtKDW5QAE4rKU5pmlFf-A>
-
 ## WebOns
 
 See on GitHub: <https://github.com/nomo-app/nomo-webon-kit>
